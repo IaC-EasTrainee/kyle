@@ -1,0 +1,4 @@
+.github/workflows/pipeline.yml @Enterprise-Automation/platform-architects
+.github/workflows/pipeline.yml @Enterprise-Automation/platform-engineers
+
+/CODEOWNERS  @Enterprise-Automation/platform-architects
